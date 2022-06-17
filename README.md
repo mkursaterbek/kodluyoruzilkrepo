@@ -1,5 +1,7 @@
 # Kodluyoruz İlk Repo
 
+![ekranresmi](https://picsum.photos/id/69/600/300)
+
 Bu repo <span style="color:blue"> Kodluyoruz</span>. Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
